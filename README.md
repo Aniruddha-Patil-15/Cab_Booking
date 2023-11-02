@@ -28,7 +28,7 @@ index.js # Server entry point
 package.json # Server dependencies
 ## Installation
 
-To get started with this project, follow these steps:
+To get started with this project, follow these steps
 
 Clone this repository to your local machine.
 
