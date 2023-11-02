@@ -4,10 +4,12 @@
 ## Project Description
 A web application for a cab system where users can enter the source and destination and they will be provided with the shortest time and estimated cost.
 ![image](https://github.com/Aniruddha-Patil-15/Cab_Booking/assets/94295937/3a596283-8941-44be-84e1-da5d5b7ab5c6)
+
+
 ●	The user should be able to book a cab by providing the user's email, source, and destination
 ●	The system should be able to calculate the shortest possible time from source to destination. E.g. There are multiple ways from A to D, but the shortest route will be via C.
 ●	There are a total of 5 cabs with different pricing. (Price/minute)
-○	No cab should have an overlapping start and end time
+●	No cab should have an overlapping start and end time
 ●	The system should provide the estimated cost depending on the cab chosen and the time taken to reach the destination.
 ●	The system should be able to track the cab booking
 ●	Users should be able to view and edit the cabs and their pricing.
