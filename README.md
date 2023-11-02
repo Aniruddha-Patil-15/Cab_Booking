@@ -30,9 +30,8 @@ package.json # Server dependencies
 
 To get started with this project, follow these steps:
 
-1. Clone this repository to your local machine.
+Clone this repository to your local machine.
 
-```bash
 git clone <repository-url>
 
 Install dependencies for the frontend and server.
