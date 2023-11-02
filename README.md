@@ -2,8 +2,10 @@
 
 
 ## Project Description
-A web application for a cab system where users can enter the source and destination and they will be provided with the shortest time and estimated cost.
+
 ![image](https://github.com/Aniruddha-Patil-15/Cab_Booking/assets/94295937/3a596283-8941-44be-84e1-da5d5b7ab5c6)
+A web application for a cab system where users can enter the source and destination and they will be provided with the shortest time and estimated cost.
+
 
 
 ●	The user should be able to book a cab by providing the user's email, source, and destination
