@@ -52,8 +52,8 @@ npm install
 Start the frontend and server.
 For the frontend (inside the frontend folder):
 
-npm run serve
+npm start
 
 For the server (inside the server folder):
 
-nodemon index.js
+npm run serve
